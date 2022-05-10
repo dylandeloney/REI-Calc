@@ -1,0 +1,13 @@
+GALLERY INFO:
+Address
+prop type
+beds & bath
+square feet
+cash flow
+cap rate
+COC 
+price
+
+PURCHASE & REHAB:
+create modal for itemize purchase cost button
+create modal for itemize rehab cost button
